@@ -1,3 +1,7 @@
+---
+layout: post
+title: Lest they foget
+---
 南京屠杀
 ##以免他们忘记
 中国的新纪念日是中日关系迷雾的体现
