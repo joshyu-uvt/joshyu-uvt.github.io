@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Josh</title>
+ <title>Josh Yu</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2014-12-24T01:48:34+01:00</updated>
+ <updated>2014-12-24T01:59:54+01:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -36,6 +36,23 @@
 &lt;p&gt;这些纪念日在中国国内还为着一个政治目的效力。习先生一直试图将自己装扮成一位敢于宣示领土主权的国家主义者，即使以冒犯美国及其区域盟友为代价。这可以促进他的个人威望及增强共产党的合法性，他显然也是这样希望的。在「胜利日」的演讲中，习先生说共产党在在打败日本上扮演着「决定性的角色」，而且一直「领导中华民族实现伟大复兴」。但也有存在和解的暗示，他说，为了中日两国的利益，要「维持健康和稳定的长期关系」。而战争纪念将持续挫败这个目标。&lt;/p&gt;
 
 &lt;p&gt;翻译自&lt;a href=&quot;http://www.economist.com/news/china/21636115-new-memorial-days-china-are-sign-frostiness-japan-lest-they-forget&quot;&gt;The Economist&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's Jekyll?</title>
+   <link href="http://hyde.getpoole.com/2012/02/06/whats-jekyll/"/>
+   <updated>2012-02-06T00:00:00+01:00</updated>
+   <id>http://hyde.getpoole.com/2012/02/06/whats-jekyll</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;#39;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+
+&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
